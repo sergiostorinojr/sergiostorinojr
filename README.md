@@ -14,7 +14,7 @@ Arquiteto de software e DevOps com foco em **tempo real**, **edge-cloud** e **ar
 Projeto e opero **Kubernetes (EKS)**, **Cloudflare Workers**, **orquestradores em Go**, backends **Laravel/NestJS/Node.js**, **Java (Spring/Jakarta EE)**, apps **Flutter**, e mensageria (**Kafka/MQTT/Redis**) com **idempotência, DLQ e replay**. Busco soluções **simples**, **observáveis** e **escaláveis**.
 
 - Tech Lead na **SigMobi** (mobility-as-a-service)  
-- Founder na **Insignia Vector — Cloud & IA** (boutique de engenharia)  
+- Founder na **Insignia Vector Cloud & IA** (boutique de engenharia)  
 - Interesses: telemetria end-to-end, FinOps, UX pragmático e infra como código
 
 ---
