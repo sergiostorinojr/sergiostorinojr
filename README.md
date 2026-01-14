@@ -2,7 +2,7 @@
 
 # Sérgio Donizetti Storino Junior
 
-**Cloud & DevOps Architect · Event-Driven Systems · Flutter/Go/Node.js/Java (Jakarta EE)**  
+**Cloud and DevOps Architect · Event Driven Systems · Flutter, Go, Node.js and Java Jakarta EE**  
 🔗 **sergiostorino.com.br** · 💼 [**LinkedIn**](https://www.linkedin.com/in/s%C3%A9rgio-jr-6353752b3) · ✉️ **dev@sergiostorino.com.br**
 
 </div>
@@ -10,12 +10,12 @@
 ---
 
 ## 👋 Sobre mim
-Arquiteto de software e DevOps com foco em **tempo real**, **edge-cloud** e **arquitetura orientada a eventos**.  
-Projeto e opero **Kubernetes (EKS)**, **Cloudflare Workers**, **orquestradores em Go**, backends **Laravel/NestJS/Node.js**, **Java (Spring/Jakarta EE)**, apps **Flutter**, e mensageria (**Kafka/MQTT/Redis**) com **idempotência, DLQ e replay**. Busco soluções **simples**, **observáveis** e **escaláveis**.
+Sou arquiteto de software e DevOps com foco em tempo real, edge cloud e arquitetura orientada a eventos.  
+Projeto e opero Kubernetes em EKS, Cloudflare Workers, orquestradores em Go, backends em Laravel, NestJS, Node.js e Java com Spring e Jakarta EE, aplicativos Flutter e mensageria com Kafka, MQTT e Redis usando idempotência, DLQ e replay. Busco soluções simples, observáveis e escaláveis.
 
-- Tech Lead na **SigMobi** (mobility-as-a-service)  
-- Founder na **Insignia Vector Cloud & IA** (boutique de engenharia)  
-- Interesses: telemetria end-to-end, FinOps, UX pragmático e infra como código
+Atuo como CTO e cofundador da SigMobi, uma plataforma de mobilidade como serviço.  
+Sou Founder da Insignia Vector Cloud and IA, uma boutique de engenharia e arquitetura de software.  
+Meus interesses incluem telemetria end to end, FinOps, UX pragmático e infraestrutura como código.
 
 ---
 
@@ -47,20 +47,18 @@ Projeto e opero **Kubernetes (EKS)**, **Cloudflare Workers**, **orquestradores e
 ---
 
 ## 🚀 Destaques
-- **Mobilidade Urbana** — plataforma com **WebSockets/MQTT**, **Kafka**, **EKS/AWS**, **Cloudflare Workers** na edge e apps **Flutter**.  
-- **Orquestradores em Go** — fan-out de notificações com fallback **Pusher/Soketi → MQTT → FCM**, presença HMAC, **DLQ** e **replay**.  
-- **Backends Node.js & Java** — APIs de alta performance com **NestJS/TypeScript** e **Spring/Jakarta EE**, **idempotência**, **observabilidade** e **resiliência**.  
-- **Insignia Vector (IV)** — engenharia de produto (Build/Scale/Trust), **UI/UX premium**, **DevOps** e **Edge Cloud**.
+**Mobilidade urbana** com plataformas em tempo real usando WebSockets, MQTT, Kafka, EKS na AWS, Cloudflare Workers na edge e aplicativos Flutter.  
+**Orquestradores em Go** para fan out de notificações com fallback entre Pusher, Soketi, MQTT e FCM, presença via HMAC, DLQ e replay.  
+**Backends em Node.js e Java** com NestJS, TypeScript, Spring e Jakarta EE, focados em idempotência, observabilidade e resiliência.  
+**Insignia Vector** como estúdio de engenharia de produto focado em build, scale, trust, UI UX premium, DevOps e edge cloud.
 
 ---
 
-> 🔎 **Saiba mais sobre mim:** [**sergiostorino.com.br**](https://sergiostorino.com.br)
+> 🔎 Saiba mais sobre mim em **https://sergiostorino.com.br**
 
 ---
 
 ## 📬 Contato
-- 💼 LinkedIn: [**linkedin.com/in/sérgio-jr-6353752b3**](https://www.linkedin.com/in/s%C3%A9rgio-jr-6353752b3)  
-- 🌐 Site: **sergiostorino.com.br**  
-- ✉️ E-mail: **dev@sergiostorino.com.br**
-
----
+💼 LinkedIn https://www.linkedin.com/in/sergio-donizetti-storino-junior-6353752b3  
+🌐 Site https://sergiostorino.com.br  
+✉️ E mail dev@sergiostorino.com.br
