@@ -17,9 +17,9 @@ Arquiteto de software e DevOps com mais de 16 anos de experiência projetando e 
 
 Projeto sistemas distribuídos orientados a eventos, opero Kubernetes no EKS, Cloudflare Workers na edge, orquestradores em Go, backends em Laravel, NestJS e Java com Spring e Jakarta EE, aplicativos Flutter e mensageria com Kafka, MQTT e Redis. Busco soluções simples, observáveis e escaláveis — com governança, resiliência e custo sob controle.
 
-Atuo como **Co-Founder & CTO** da [SigMobi](https://sigmobi.com.br) (mobilidade urbana) e da [EcoEnergiza](https://ecoenerginza.com.br) (inteligência energética).  
-Sou **Founder & Chief Architect** da [VectorPlane](https://vectorplane.com) (orquestração de agentes de IA e workflows autônomos).  
-Sou **Founder & Principal Architect** da [Insignia Vector](https://insigniavector.com) (boutique de arquitetura de software e engenharia de plataformas).
+Atuo como **Co-Founder & CTO** da [SigMobi](https://sigmobi.com) (mobilidade urbana) e da [EcoEnergiza](https://ecoenergiza.com.br) (inteligência energética).  
+Sou **Founder & Chief Architect** da [VectorPlane](https://vectorplane.ai) (orquestração de agentes de IA e workflows autônomos).  
+Sou **Founder & Principal Architect** da [Insignia Vector](https://insigniavector.com.br) (boutique de arquitetura de software e engenharia de plataformas).
 
 Meus interesses incluem agentic AI, memória persistente, telemetria end-to-end, FinOps e infraestrutura como código.
 
@@ -63,13 +63,13 @@ Meus interesses incluem agentic AI, memória persistente, telemetria end-to-end,
 
 ## 🚀 Destaques
 
-**SigMobi** — plataforma de mobilidade urbana com operação em tempo real: geolocalização, despacho, pagamentos (PIX), notificações e apps Flutter para passageiros e motoristas, sobre Kubernetes no EKS e Cloudflare Workers na edge.
+**[SigMobi](https://sigmobi.com)** é uma plataforma de mobilidade urbana com operação em tempo real: geolocalização, despacho, pagamentos (PIX), notificações e apps Flutter para passageiros e motoristas, sobre Kubernetes no EKS e Cloudflare Workers na edge.
 
-**EcoEnergiza** — ecossistema de inteligência energética combinando geração solar distribuída, smart metering, machine learning e gestão digital de consumo para consumidores, consultores e parceiros.
+**[EcoEnergiza](https://ecoenergiza.com.br)** é um ecossistema de inteligência energética combinando geração solar distribuída, smart metering, machine learning e gestão digital de consumo para consumidores, consultores e parceiros.
 
-**VectorPlane** — plataforma de orquestração de agentes de IA com memória persistente, workflows autônomos, integração com LLMs e ecossistemas MCP, rodando sobre Cloudflare Durable Objects, D1, KV e Workers.
+**[VectorPlane](https://vectorplane.ai)** é uma plataforma de orquestração de agentes de IA com memória persistente, workflows autônomos, integração com LLMs e ecossistemas MCP, rodando sobre Cloudflare Durable Objects, D1, KV e Workers.
 
-**Insignia Vector** — estúdio de engenharia de software focado em arquitetura, cloud native, DevOps, edge e liderança técnica. Mais de 100 plataformas entregues.
+**[Insignia Vector](https://insigniavector.com.br)** é um estúdio de engenharia de software focado em arquitetura, cloud native, DevOps, edge e liderança técnica. Mais de 100 plataformas entregues.
 
 ---
 
