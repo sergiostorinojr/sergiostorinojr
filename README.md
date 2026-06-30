@@ -15,7 +15,7 @@ Cloud Native · Distributed Systems · Event-Driven · AI Platforms · Mobility 
 
 Arquiteto de software e DevOps com mais de 16 anos de experiência projetando e operando plataformas digitais em produção.
 
-Projeto sistemas distribuídos orientados a eventos, opero Kubernetes no EKS, Cloudflare Workers na edge, orquestradores em Go, backends em Laravel, NestJS e Java com Spring e Jakarta EE, aplicativos Flutter e mensageria com Kafka, MQTT e Redis. Busco soluções simples, observáveis e escaláveis — com governança, resiliência e custo sob controle.
+Projeto sistemas distribuídos orientados a eventos, opero Kubernetes no EKS, Cloudflare Workers na edge, orquestradores em Go, backends em Laravel, NestJS e Java com Spring e Jakarta EE, aplicativos Flutter e mensageria com Kafka, MQTT e Redis. Busco soluções simples, observáveis e escaláveis com governança, resiliência e custo sob controle.
 
 Atuo como **Co-Founder & CTO** da [SigMobi](https://sigmobi.com) (mobilidade urbana).  
 Sou **Founder & Chief Architect** da [VectorPlane](https://vectorplane.ai) (orquestração de agentes de IA e workflows autônomos).  
